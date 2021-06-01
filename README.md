@@ -5,6 +5,20 @@ R Finance packages not listed in the Empirical Finance Task View
 
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
 
+[fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
+
+[FinAna](https://cran.r-project.org/web/packages/FinAna/index.html): Financial Analysis and Regression Diagnostic Analysis
+
+[FinancialInstrument](https://cran.r-project.org/web/packages/FinancialInstrument/index.html): Financial Instrument Model Infrastructure and Meta-Data
+
+[FinCal](https://cran.r-project.org/web/packages/FinCal/index.html): Time Value of Money, Time Series Analysis and Computational Finance
+
+[FinCovRegularization](https://cran.r-project.org/web/packages/FinCovRegularization/index.html): Covariance Matrix Estimation and Regularization for Finance
+
+[FinTS](https://cran.r-project.org/web/packages/FinTS/index.html): Companion to Tsay (2005) Analysis of Financial Time Series
+
+[fmbasics](https://cran.r-project.org/web/packages/fmbasics/index.html): Financial Market Building Blocks
+
 [greeks](https://cran.r-project.org/web/packages/greeks/index.html): Sensitivities of Prices of Financial Options
 
 [multiAssetOptions](https://cran.r-project.org/web/packages/multiAssetOptions/index.html): Finite Difference Method for Multi-Asset Option Valuation
