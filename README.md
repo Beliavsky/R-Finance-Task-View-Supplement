@@ -1,5 +1,5 @@
 # R Finance Task View Supplement
-R Finance packages not listed in the Empirical Finance Task View
+R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html)
 
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
 
