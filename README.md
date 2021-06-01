@@ -19,6 +19,12 @@ R Finance packages not listed in the Empirical Finance Task View
 
 [fmbasics](https://cran.r-project.org/web/packages/fmbasics/index.html): Financial Market Building Blocks
 
+[frenchdata](https://cran.r-project.org/web/packages/frenchdata/index.html): Download Data Sets from Kenneth's French Finance Data Library Site
+
+[GetDFPData](https://cran.r-project.org/web/packages/GetDFPData/index.html): Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System
+
+[GetDFPData2](https://cran.r-project.org/web/packages/GetDFPData2/index.html): Reading Annual and Quarterly Financial Reports from B3
+
 [greeks](https://cran.r-project.org/web/packages/greeks/index.html): Sensitivities of Prices of Financial Options
 
 [multiAssetOptions](https://cran.r-project.org/web/packages/multiAssetOptions/index.html): Finite Difference Method for Multi-Asset Option Valuation
