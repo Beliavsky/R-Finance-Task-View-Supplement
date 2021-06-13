@@ -73,6 +73,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [RPESE](https://cran.r-project.org/web/packages/RPESE/index.html): Estimates of Standard Errors for Risk and Performance Measures
 
+[RTL](https://cran.r-project.org/web/packages/RTL/index.html): Risk Tool Library - Trading, Risk, Analytic for Commodities
+
 [simfinR](https://cran.r-project.org/web/packages/simfinR/index.html): Import Financial Data from the 'SimFin' Project
 
 [SMFI5](https://cran.r-project.org/web/packages/SMFI5/index.html): R functions and data from Chapter 5 of 'Statistical Methods for Financial Engineering'
