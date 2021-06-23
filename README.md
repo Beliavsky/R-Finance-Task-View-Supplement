@@ -7,6 +7,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [edgarWebR](https://cran.r-project.org/web/packages/edgarWebR/index.html): SEC Filings Access
 
+[etrm](https://cran.r-project.org/web/packages/etrm/index.html): Energy Trading and Risk Management
+
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
 
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
