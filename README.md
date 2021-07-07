@@ -91,6 +91,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [treasuryTR](https://cran.r-project.org/web/packages/treasuryTR/index.html): Generate Treasury Total Returns from Yield Data
 
+[tscopula](https://cran.r-project.org/web/packages/tscopula/index.html): Time Series Copula Models
+
 [TSEtools](https://cran.r-project.org/web/packages/TSEtools/index.html): Manage Data from Stock Exchange Markets
 
 [TwitterAutomatedTrading](https://cran.r-project.org/web/packages/TwitterAutomatedTrading/index.html): Automated Trading Using Tweets
