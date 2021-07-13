@@ -99,6 +99,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [TwitterAutomatedTrading](https://cran.r-project.org/web/packages/TwitterAutomatedTrading/index.html): Automated Trading Using Tweets
 
+[uncorbets](https://cran.r-project.org/web/packages/uncorbets/index.html): Uncorrelated Bets via Minimum Torsion Algorithm
+
 [valuer](https://cran.r-project.org/web/packages/valuer/index.html): Pricing of Variable Annuities
 
 [vamc](https://cran.r-project.org/web/packages/vamc/index.html): A Monte Carlo Valuation Framework for Variable Annuities
