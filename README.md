@@ -1,6 +1,8 @@
 # R Finance Task View Supplement
 R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html)
 
+[bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
+
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
 
 [ecd](https://cran.r-project.org/web/packages/ecd/index.html): Elliptic Lambda Distribution and Option Pricing Model
