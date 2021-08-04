@@ -77,6 +77,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [RFinanceYJ](https://cran.r-project.org/web/packages/RFinanceYJ/index.html): RFinanceYJ
 
+[rgdax](https://cran.r-project.org/web/packages/rgdax/index.html): Wrapper for 'Coinbase Pro (erstwhile GDAX)' Cryptocurrency Exchange
+
 [Riex](https://cran.r-project.org/web/packages/Riex/index.html): IEX Stocks and Market Data
 
 [RPEIF](https://cran.r-project.org/web/packages/RPEIF/index.html): Computation and Plots of Influence Functions for Risk and Performance Measures
