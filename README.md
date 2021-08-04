@@ -5,6 +5,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
 
+[dispositionEffect](https://cran.r-project.org/web/packages/dispositionEffect/index.html): Analysis of Disposition Effect on Financial Portfolios
+
 [ecd](https://cran.r-project.org/web/packages/ecd/index.html): Elliptic Lambda Distribution and Option Pricing Model
 
 [edgarWebR](https://cran.r-project.org/web/packages/edgarWebR/index.html): SEC Filings Access
