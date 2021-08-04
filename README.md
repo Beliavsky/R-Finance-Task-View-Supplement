@@ -39,6 +39,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [greeks](https://cran.r-project.org/web/packages/greeks/index.html): Sensitivities of Prices of Financial Options
 
+[HDShOP](https://cran.r-project.org/web/packages/HDShOP/index.html): High-Dimensional Shrinkage Optimal Portfolios
+
 [iClick](https://cran.r-project.org/web/packages/iClick/index.html): A Button-Based GUI for Financial and Economic Data Analysis
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
