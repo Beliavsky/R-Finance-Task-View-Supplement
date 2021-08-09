@@ -9,6 +9,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [ecd](https://cran.r-project.org/web/packages/ecd/index.html): Elliptic Lambda Distribution and Option Pricing Model
 
+[edgar](https://cran.r-project.org/web/packages/edgar/index.html): Tool for the U.S. SEC EDGAR Retrieval and Parsing of Corporate Filings
+
 [edgarWebR](https://cran.r-project.org/web/packages/edgarWebR/index.html): SEC Filings Access
 
 [etrm](https://cran.r-project.org/web/packages/etrm/index.html): Energy Trading and Risk Management
