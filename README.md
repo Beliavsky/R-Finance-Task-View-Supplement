@@ -93,6 +93,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [RTL](https://cran.r-project.org/web/packages/RTL/index.html): Risk Tool Library - Trading, Risk, Analytic for Commodities
 
+[sentometrics](https://cran.r-project.org/web/packages/sentometrics/index.html): An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
+
 [simfinR](https://cran.r-project.org/web/packages/simfinR/index.html): Import Financial Data from the 'SimFin' Project
 
 [SMFI5](https://cran.r-project.org/web/packages/SMFI5/index.html): R functions and data from Chapter 5 of 'Statistical Methods for Financial Engineering'
