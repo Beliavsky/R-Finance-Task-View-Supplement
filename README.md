@@ -113,6 +113,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [TSEtools](https://cran.r-project.org/web/packages/TSEtools/index.html): Manage Data from Stock Exchange Markets
 
+[tvgarch](https://cran.r-project.org/web/packages/tvgarch/index.html): Time Varying GARCH Modelling
+
 [TwitterAutomatedTrading](https://cran.r-project.org/web/packages/TwitterAutomatedTrading/index.html): Automated Trading Using Tweets
 
 [uncorbets](https://cran.r-project.org/web/packages/uncorbets/index.html): Uncorrelated Bets via Minimum Torsion Algorithm
