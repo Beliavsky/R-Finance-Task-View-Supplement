@@ -71,6 +71,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [pdfetch](https://cran.r-project.org/web/packages/pdfetch/index.html): Fetch Economic and Financial Time Series Data from Public Sources
 
+[PMwR](https://cran.r-project.org/web/packages/PMwR/index.html): Portfolio Management with R
+
 [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html): Analysing Equity Portfolios
 
 [priceR](https://cran.r-project.org/web/packages/priceR/index.html): Economics and Pricing Tools
