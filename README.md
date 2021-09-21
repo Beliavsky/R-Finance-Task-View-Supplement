@@ -75,6 +75,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html): Analysing Equity Portfolios
 
+[portfolioBacktest](https://cran.r-project.org/web/packages/portfolioBacktest/index.html): Automated Backtesting of Portfolios over Multiple Datasets
+
 [priceR](https://cran.r-project.org/web/packages/priceR/index.html): Economics and Pricing Tools
 
 [QFRM](https://cran.r-project.org/web/packages/QFRM/index.html): Pricing of Vanilla and Exotic Option Contracts
