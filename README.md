@@ -47,6 +47,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
+[insiderTrades](https://cran.r-project.org/web/packages/insiderTrades/index.html): Tools to Download Insider Transactions and Holdings
+
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
 [Jdmbs](https://cran.r-project.org/web/packages/Jdmbs/index.html): Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies
