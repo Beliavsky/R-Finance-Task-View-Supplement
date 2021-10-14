@@ -51,6 +51,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
+[lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
+
 [Jdmbs](https://cran.r-project.org/web/packages/Jdmbs/index.html): Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools and GUI for Analyzing Time Series Data of Just Finance and Econometrics
