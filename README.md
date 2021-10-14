@@ -113,6 +113,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [stressr](https://cran.r-project.org/web/packages/stressr/index.html): Fetch and plot financial stress index and component data
 
+[stocks](https://cran.r-project.org/web/packages/stocks/index.html): Stock Market Analysis
+
 [td](https://cran.r-project.org/web/packages/td/index.html): Access to the 'twelvedata' Financial Data API
 
 [Trading](https://cran.r-project.org/web/packages/Trading/index.html): CCR, Entropy-Based Correlation Estimates & Dynamic Beta
