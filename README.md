@@ -97,6 +97,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [RPESE](https://cran.r-project.org/web/packages/RPESE/index.html): Estimates of Standard Errors for Risk and Performance Measures
 
+[rpredictit](https://cran.r-project.org/web/packages/rpredictit/index.html): Interface to the 'PredictIt' API
+
 [RTL](https://cran.r-project.org/web/packages/RTL/index.html): Risk Tool Library - Trading, Risk, Analytic for Commodities
 
 [sentometrics](https://cran.r-project.org/web/packages/sentometrics/index.html): An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
