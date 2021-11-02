@@ -65,6 +65,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [multiAssetOptions](https://cran.r-project.org/web/packages/multiAssetOptions/index.html): Finite Difference Method for Multi-Asset Option Valuation
 
+[MultiATSM](https://cran.r-project.org/web/packages/MultiATSM/index.html): Multicountry Term Structure of Interest Rates Models
+
 [nser](https://cran.r-project.org/web/packages/nser/index.html): Bhavcopy and Live Market Data from National Stock Exchange(NSE) India of Equities and Derivatives(F&O)
 
 [optionstrat](https://cran.r-project.org/web/packages/optionstrat/index.html): Utilizes the Black-Scholes Option Pricing Model to Perform Strategic Option Analysis and Plot Option Strategies
