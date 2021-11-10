@@ -35,6 +35,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GARCHSK](https://cran.r-project.org/web/packages/GARCHSK/index.html): Estimating a GARCHSK Model and GJRSK Model (time-varying skewness and kurtosis)
 
+[generalCorr](https://cran.r-project.org/web/packages/generalCorr/index.html): Generalized Correlations, Causal Paths and Portfolio Selection
+
 [GetDFPData](https://cran.r-project.org/web/packages/GetDFPData/index.html): Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System
 
 [GetDFPData2](https://cran.r-project.org/web/packages/GetDFPData2/index.html): Reading Annual and Quarterly Financial Reports from B3
