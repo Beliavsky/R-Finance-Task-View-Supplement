@@ -3,6 +3,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 
+[CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
+
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
 
 [dispositionEffect](https://cran.r-project.org/web/packages/dispositionEffect/index.html): Analysis of Disposition Effect on Financial Portfolios
