@@ -107,6 +107,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [Riex](https://cran.r-project.org/web/packages/Riex/index.html): IEX Stocks and Market Data
 
+[RobinHood](https://cran.r-project.org/web/packages/RobinHood/index.html): Interface for the RobinHood.com No Commission Investing Platform
+
 [RPEIF](https://cran.r-project.org/web/packages/RPEIF/index.html): Computation and Plots of Influence Functions for Risk and Performance Measures
 
 [RPESE](https://cran.r-project.org/web/packages/RPESE/index.html): Estimates of Standard Errors for Risk and Performance Measures
