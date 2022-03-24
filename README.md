@@ -19,6 +19,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
 
+[ffp](https://cran.r-project.org/web/packages/ffp/index.html): Fully Flexible Probabilities for Stress Testing and Portfolio Construction
+
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
 
 [FinAna](https://cran.r-project.org/web/packages/FinAna/index.html): Financial Analysis and Regression Diagnostic Analysis
