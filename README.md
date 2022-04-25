@@ -1,6 +1,8 @@
 # R Finance Task View Supplement
 R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html)
 
+[AssetAllocation](https://cran.r-project.org/web/packages/AssetAllocation/index.html): Backtesting Simple Asset Allocation Strategies
+
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 
 [CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
