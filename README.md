@@ -65,6 +65,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [insiderTrades](https://cran.r-project.org/web/packages/insiderTrades/index.html): Tools to Download Insider Transactions and Holdings
 
+[JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools and GUI for Analyzing Time Series Data of Just Finance and Econometrics
+
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
 [lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
