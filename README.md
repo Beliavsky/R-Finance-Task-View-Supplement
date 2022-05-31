@@ -105,6 +105,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [portfolioBacktest](https://cran.r-project.org/web/packages/portfolioBacktest/index.html): Automated Backtesting of Portfolios over Multiple Datasets
 
+[portvine](https://cran.r-project.org/web/packages/portvine/index.html): Vine Based (Un)Conditional Portfolio Risk Measure Estimation
+
 [priceR](https://cran.r-project.org/web/packages/priceR/index.html): Economics and Pricing Tools
 
 [quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
