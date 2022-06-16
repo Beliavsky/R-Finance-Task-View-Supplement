@@ -168,3 +168,5 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 [valuer](https://cran.r-project.org/web/packages/valuer/index.html): Pricing of Variable Annuities
 
 [vamc](https://cran.r-project.org/web/packages/vamc/index.html): A Monte Carlo Valuation Framework for Variable Annuities
+
+[ycevo](https://cran.r-project.org/web/packages/ycevo/index.html): Nonparametric Estimation of the Yield Curve Evolution
