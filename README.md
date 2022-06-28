@@ -117,6 +117,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
 
+[rb3](https://cran.r-project.org/web/packages/rb3/index.html): Download and Parse Public Data Released by B3 Exchange
+
 [RFinanceYJ](https://cran.r-project.org/web/packages/RFinanceYJ/index.html): RFinanceYJ
 
 [rgdax](https://cran.r-project.org/web/packages/rgdax/index.html): Wrapper for 'Coinbase Pro (erstwhile GDAX)' Cryptocurrency Exchange
