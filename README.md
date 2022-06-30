@@ -174,3 +174,5 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 [VaRES](https://cran.r-project.org/web/packages/VaRES/index.html): Computes Value at Risk and Expected Shortfall for over 100 Parametric Distributions
 
 [ycevo](https://cran.r-project.org/web/packages/ycevo/index.html): Nonparametric Estimation of the Yield Curve Evolution
+
+[yfR](https://cran.r-project.org/web/packages/yfR/index.html): Downloads and Organizes Financial Data from Yahoo Finance
