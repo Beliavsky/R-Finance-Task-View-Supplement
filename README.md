@@ -1,6 +1,8 @@
 # R Finance Task View Supplement
 R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html)
 
+[ACDm](https://cran.r-project.org/web/packages/ACDm/index.html): Tools for Autoregressive Conditional Duration Models
+
 [AssetAllocation](https://cran.r-project.org/web/packages/AssetAllocation/index.html): Backtesting Simple Asset Allocation Strategies
 
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
