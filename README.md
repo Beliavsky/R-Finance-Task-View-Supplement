@@ -113,8 +113,6 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [priceR](https://cran.r-project.org/web/packages/priceR/index.html): Economics and Pricing Tools
 
-[quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
-
 [QFRM](https://cran.r-project.org/web/packages/QFRM/index.html): Pricing of Vanilla and Exotic Option Contracts
 
 [quantdates](https://cran.r-project.org/web/packages/quantdates/index.html): Manipulate Dates for Finance
