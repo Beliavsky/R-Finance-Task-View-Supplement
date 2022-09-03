@@ -5,6 +5,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [AssetAllocation](https://cran.r-project.org/web/packages/AssetAllocation/index.html): Backtesting Simple Asset Allocation Strategies
 
+[ASV](https://cran.r-project.org/web/packages/ASV/index.html): Stochastic Volatility Models with or without Leverage
+
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
 
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
