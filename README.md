@@ -79,6 +79,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
 
+[LifeInsuranceContracts](https://cran.r-project.org/web/packages/LifeInsuranceContracts/index.html): Framework for Traditional Life Insurance Contracts
+
 [Jdmbs](https://cran.r-project.org/web/packages/Jdmbs/index.html): Monte Carlo Option Pricing Algorithms for Jump Diffusion Models with Correlational Companies
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools and GUI for Analyzing Time Series Data of Just Finance and Econometrics
