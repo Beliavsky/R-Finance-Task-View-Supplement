@@ -55,6 +55,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GBcurves](https://cran.r-project.org/web/packages/GBcurves/index.html): Yield Curves of Brazil, China, and Russia
 
+[GDPuc](https://cran.r-project.org/web/packages/GDPuc/index.html): Easily Convert GDP Data
+
 [generalCorr](https://cran.r-project.org/web/packages/generalCorr/index.html): Generalized Correlations, Causal Paths and Portfolio Selection
 
 [GetDFPData](https://cran.r-project.org/web/packages/GetDFPData/index.html): Reading Annual Financial Reports from Bovespa's DFP, FRE and FCA System
