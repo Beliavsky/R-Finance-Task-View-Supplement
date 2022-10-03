@@ -190,3 +190,5 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 [ycevo](https://cran.r-project.org/web/packages/ycevo/index.html): Nonparametric Estimation of the Yield Curve Evolution
 
 [yfR](https://cran.r-project.org/web/packages/yfR/index.html): Downloads and Organizes Financial Data from Yahoo Finance
+
+[YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html): Modelling and Estimation of the Yield Curve
