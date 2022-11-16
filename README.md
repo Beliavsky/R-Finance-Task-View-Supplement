@@ -11,6 +11,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 
+[BISdata](https://cran.r-project.org/web/packages/BISdata/index.html): Download Data from the Bank for International Settlements (BIS)
+
 [BondValuation](https://cran.r-project.org/web/packages/BondValuation/index.html): Fixed Coupon Bond Valuation Allowing for Odd Coupon Periods and Various Day Count Conventions
 
 [CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
