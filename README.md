@@ -47,6 +47,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [FinTS](https://cran.r-project.org/web/packages/FinTS/index.html): Companion to Tsay (2005) Analysis of Financial Time Series
 
+[finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
+
 [fixedincome](https://cran.r-project.org/web/packages/fixedincome/index.html): Fixed Income Models, Calculations, Data Structures and Instruments
 
 [fmbasics](https://cran.r-project.org/web/packages/fmbasics/index.html): Financial Market Building Blocks
