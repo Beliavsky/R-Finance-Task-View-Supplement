@@ -119,6 +119,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [portfolio](https://cran.r-project.org/web/packages/portfolio/index.html): Analysing Equity Portfolios
 
+[PortfolioAnalytics](https://cran.r-project.org/web/packages/PortfolioAnalytics/): Portfolio Analysis, Including Numerical Methods for Optimization of Portfolios
+
 [portfolioBacktest](https://cran.r-project.org/web/packages/portfolioBacktest/index.html): Automated Backtesting of Portfolios over Multiple Datasets
 
 [portvine](https://cran.r-project.org/web/packages/portvine/index.html): Vine Based (Un)Conditional Portfolio Risk Measure Estimation
