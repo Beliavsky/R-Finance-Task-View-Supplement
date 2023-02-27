@@ -45,6 +45,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [FinCovRegularization](https://cran.r-project.org/web/packages/FinCovRegularization/index.html): Covariance Matrix Estimation and Regularization for Finance
 
+[fingraph](https://cran.r-project.org/web/packages/fingraph/index.html): Learning Graphs for Financial Markets
+
 [FinTS](https://cran.r-project.org/web/packages/FinTS/index.html): Companion to Tsay (2005) Analysis of Financial Time Series
 
 [finnts](https://cran.r-project.org/web/packages/finnts/index.html): Microsoft Finance Time Series Forecasting Framework
