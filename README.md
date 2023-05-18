@@ -175,6 +175,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [stockAnalyst](https://cran.r-project.org/web/packages/stockAnalyst/index.html): Equity Valuation using Methods of Fundamental Analysis
 
+[StockDistFit](https://cran.r-project.org/web/packages/StockDistFit/index.html): Fit Stock Price Distributions
+
 [stocks](https://cran.r-project.org/web/packages/stocks/index.html): Stock Market Analysis
 
 [td](https://cran.r-project.org/web/packages/td/index.html): Access to the 'twelvedata' Financial Data API
