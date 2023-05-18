@@ -157,6 +157,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [rtsdata](https://cran.r-project.org/web/packages/rtsdata/index.html): R Time Series Intelligent Data Storage
 
+[rusquant](https://cran.r-project.org/web/packages/rusquant/index.html): Quantitative Trading Framework
+
 [sentometrics](https://cran.r-project.org/web/packages/sentometrics/index.html): An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
 
 [sharpeRratio](https://cran.r-project.org/web/packages/sharpeRratio/index.html): Moment-Free Estimation of Sharpe Ratios
