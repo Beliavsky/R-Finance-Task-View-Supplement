@@ -109,6 +109,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [macrocol](https://cran.r-project.org/web/packages/macrocol/index.html): Colombian Macro-Financial Time Series Generator
 
+[mfGARCH](https://cran.r-project.org/web/packages/mfGARCH/index.html): Mixed-Frequency GARCH Models
+
 [multiAssetOptions](https://cran.r-project.org/web/packages/multiAssetOptions/index.html): Finite Difference Method for Multi-Asset Option Valuation
 
 [MultiATSM](https://cran.r-project.org/web/packages/MultiATSM/index.html): Multicountry Term Structure of Interest Rates Models
