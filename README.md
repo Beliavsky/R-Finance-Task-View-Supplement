@@ -35,6 +35,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
 
+[FFdownload](https://cran.r-project.org/web/packages/FFdownload/index.html): Download Data from Kenneth French's Website
+
 [ffp](https://cran.r-project.org/web/packages/ffp/index.html): Fully Flexible Probabilities for Stress Testing and Portfolio Construction
 
 [fHMM](https://cran.r-project.org/web/packages/fHMM/index.html): Fitting Hidden Markov Models to Financial Data
