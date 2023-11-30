@@ -93,6 +93,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [invgamstochvol](https://cran.r-project.org/web/packages/invgamstochvol/index.html): Obtains the Log Likelihood for an Inverse Gamma Stochastic Volatility Model
 
+[intrinsicFRP](https://cran.r-project.org/web/packages/intrinsicFRP/index.html): Factor Model Asset Pricing
+
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools and GUI for Analyzing Time Series Data of Just Finance and Econometrics
 
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
