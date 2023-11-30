@@ -97,6 +97,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [JFE](https://cran.r-project.org/web/packages/JFE/index.html): Tools and GUI for Analyzing Time Series Data of Just Finance and Econometrics
 
+[jubilee](https://cran.r-project.org/web/packages/jubilee/index.html): Forecasting Long-Term Growth of the U.S. Stock Market and Business Cycles
+
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
 [lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
