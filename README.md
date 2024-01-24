@@ -99,6 +99,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [jubilee](https://cran.r-project.org/web/packages/jubilee/index.html): Forecasting Long-Term Growth of the U.S. Stock Market and Business Cycles
 
+[kisopenapi](https://cran.r-project.org/web/packages/kisopenapi/index.html): Korea Investment & Securities (KIS) Open Trading API
+
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
 [lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
