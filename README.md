@@ -33,6 +33,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [etrm](https://cran.r-project.org/web/packages/etrm/index.html): Energy Trading and Risk Management
 
+[Euronext](https://cran.r-project.org/web/packages/Euronext/index.html): Retrieve Historical Data of Companies Listed on the 'Euronext' Stock Exchange
+
 [farr](https://cran.r-project.org/web/packages/farr/index.html): Data and Code for Financial Accounting Research
 
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
