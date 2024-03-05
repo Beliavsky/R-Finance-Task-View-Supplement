@@ -207,6 +207,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [tidyedgar](https://cran.r-project.org/web/packages/tidyedgar/index.html): Tidy Fundamental Financial Data from 'SEC's 'EDGAR' 'API'
 
+[tidyfinance](https://cran.r-project.org/web/packages/tidyfinance/index.html): Tidy Finance Helper Functions, with associated [book](https://www.tidy-finance.org/r/index.html)
+
 [tqk](https://cran.r-project.org/web/packages/tqk/index.html): Get Financial Data in Korea
 
 [Trading](https://cran.r-project.org/web/packages/Trading/index.html): CCR, Entropy-Based Correlation Estimates & Dynamic Beta
