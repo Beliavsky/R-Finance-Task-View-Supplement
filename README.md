@@ -85,7 +85,9 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [HierPortfolios](https://cran.r-project.org/web/packages/HierPortfolios/index.html): Hierarchical Clustering-Based Portfolio Allocation Strategies
 
-[iClick](https://cran.r-project.org/web/packages/iClick/index.html): A Button-Based GUI for Financial and Economic Data Analysis
+[iClick](https://cran.r-project.org/web/packages/iClick/index.html): Button-Based GUI for Financial and Economic Data Analysis
+
+[imf.data](https://cran.r-project.org/web/packages/imf.data/index.html): Interface to IMF (International Monetary Fund) Data JSON API
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
