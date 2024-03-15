@@ -195,6 +195,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [SMFI5](https://cran.r-project.org/web/packages/SMFI5/index.html): R functions and data from Chapter 5 of 'Statistical Methods for Financial Engineering'
 
+[Spillover](https://cran.r-project.org/web/packages/Spillover/index.html): Spillover/Connectedness Index Based on VAR Modelling
+
 [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models / Realized Covariances Construction
 
 [Strategy](https://cran.r-project.org/web/packages/Strategy/index.html): Generic Framework to Analyze Trading Strategies
