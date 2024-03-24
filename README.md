@@ -219,6 +219,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [Trading](https://cran.r-project.org/web/packages/Trading/index.html): CCR, Entropy-Based Correlation Estimates & Dynamic Beta
 
+[treasury](https://cran.r-project.org/web/packages/treasury/index.html): US Treasury XML Feed Wrapper
+
 [treasuryTR](https://cran.r-project.org/web/packages/treasuryTR/index.html): Generate Treasury Total Returns from Yield Data
 
 [tscopula](https://cran.r-project.org/web/packages/tscopula/index.html): Time Series Copula Models
