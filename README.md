@@ -21,6 +21,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
 
+[CreditRisk](https://cran.r-project.org/web/packages/CreditRisk/index.html): Evaluation of Credit Risk with Structural and Reduced Form Models
+
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
 
 [dispositionEffect](https://cran.r-project.org/web/packages/dispositionEffect/index.html): Analysis of Disposition Effect on Financial Portfolios
