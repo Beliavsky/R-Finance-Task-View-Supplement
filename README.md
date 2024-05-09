@@ -163,6 +163,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [priceR](https://cran.r-project.org/web/packages/priceR/index.html): Economics and Pricing Tools
 
+[PWEV](https://cran.r-project.org/web/packages/PWEV/index.html): PSO Based Weighted Ensemble Algorithm for Volatility Modelling
+
 [QFRM](https://cran.r-project.org/web/packages/QFRM/index.html): Pricing of Vanilla and Exotic Option Contracts
 
 [quantdates](https://cran.r-project.org/web/packages/quantdates/index.html): Manipulate Dates for Finance
