@@ -9,6 +9,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [BayesianFactorZoo](https://cran.r-project.org/web/packages/BayesianFactorZoo/index.html): Bayesian Solutions for the Factor Zoo: We Just Ran Two Quadrillion Models
 
+[bbk](https://cran.r-project.org/web/packages/bbk/index.html): Client for the Bundesbank API
+
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
 
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
