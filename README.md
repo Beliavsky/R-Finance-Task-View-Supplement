@@ -25,6 +25,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [CreditRisk](https://cran.r-project.org/web/packages/CreditRisk/index.html): Evaluation of Credit Risk with Structural and Reduced Form Models
 
+[crypto2](https://cran.r-project.org/web/packages/crypto2/index.html): Download Crypto Currency Data from 'CoinMarketCap' without 'API'
+
 [czechrates](https://cran.r-project.org/web/packages/czechrates/index.html): Czech Interest & Foreign Exchange Rates
 
 [dataonderivatives](https://cran.r-project.org/web/packages/dataonderivatives/index.html): Easily Source Publicly Available Data on Derivatives
