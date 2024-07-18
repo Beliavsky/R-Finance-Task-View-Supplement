@@ -21,6 +21,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [BondValuation](https://cran.r-project.org/web/packages/BondValuation/index.html): Fixed Coupon Bond Valuation Allowing for Odd Coupon Periods and Various Day Count Conventions
 
+[charlesschwabapi](https://cran.r-project.org/web/packages/charlesschwabapi/index.html): Wrapper Functions Around 'Charles Schwab Individual Trader API'
+
 [CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
 
 [CreditRisk](https://cran.r-project.org/web/packages/CreditRisk/index.html): Evaluation of Credit Risk with Structural and Reduced Form Models
