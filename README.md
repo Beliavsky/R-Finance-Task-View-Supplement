@@ -179,6 +179,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [rb3](https://cran.r-project.org/web/packages/rb3/index.html): Download and Parse Public Data Released by B3 Exchange
 
+[RblDataLicense](https://cran.r-project.org/web/packages/RblDataLicense/index.html): R Interface to 'Bloomberg Data License'
+
 [RFinanceYJ](https://cran.r-project.org/web/packages/RFinanceYJ/index.html): RFinanceYJ
 
 [rgdax](https://cran.r-project.org/web/packages/rgdax/index.html): Wrapper for 'Coinbase Pro (erstwhile GDAX)' Cryptocurrency Exchange
