@@ -49,6 +49,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [farr](https://cran.r-project.org/web/packages/farr/index.html): Data and Code for Financial Accounting Research
 
+[fcl](https://cran.r-project.org/web/packages/fcl/index.html): A financial calculator that provides very fast implementations of common financial indicators using 'Rust' code
+
 [FER](https://cran.r-project.org/web/packages/FER/index.html): Financial Engineering in R
 
 [FFdownload](https://cran.r-project.org/web/packages/FFdownload/index.html): Download Data from Kenneth French's Website
