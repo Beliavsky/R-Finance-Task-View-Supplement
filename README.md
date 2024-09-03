@@ -41,6 +41,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [edgarWebR](https://cran.r-project.org/web/packages/edgarWebR/index.html): SEC Filings Access
 
+[eodhdR2](https://cran.r-project.org/web/packages/eodhdR2/index.html): Official R API for Fetching Data from 'EODHD'
+
 [esback](https://cran.r-project.org/web/packages/esback/index.html): Expected Shortfall Backtesting
 
 [etrm](https://cran.r-project.org/web/packages/etrm/index.html): Energy Trading and Risk Management
