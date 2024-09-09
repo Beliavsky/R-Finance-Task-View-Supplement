@@ -107,6 +107,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
+[INFOSET](https://cran.r-project.org/web/packages/INFOSET/index.html): Computing a New Informative Distribution Set of Asset Returns
+
 [insiderTrades](https://cran.r-project.org/web/packages/insiderTrades/index.html): Tools to Download Insider Transactions and Holdings
 
 [intradayModel](https://cran.r-project.org/web/packages/intradayModel/index.html): Modeling and Forecasting Financial Intraday Signals
