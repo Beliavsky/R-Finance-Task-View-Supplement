@@ -25,6 +25,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [CLA](https://cran.r-project.org/web/packages/CLA/index.html): Critical Line Algorithm in Pure R
 
+[corpmetrics](https://cran.r-project.org/web/packages/corpmetrics/index.html): Tools for Valuation, Financial Metrics and Modeling in Corporate Finance
+
 [CreditRisk](https://cran.r-project.org/web/packages/CreditRisk/index.html): Evaluation of Credit Risk with Structural and Reduced Form Models
 
 [crypto2](https://cran.r-project.org/web/packages/crypto2/index.html): Download Crypto Currency Data from 'CoinMarketCap' without 'API'
