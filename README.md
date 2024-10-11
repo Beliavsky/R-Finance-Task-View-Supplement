@@ -189,6 +189,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [RblDataLicense](https://cran.r-project.org/web/packages/RblDataLicense/index.html): R Interface to 'Bloomberg Data License'
 
+[REN](https://cran.r-project.org/web/packages/REN/index.html): Regularization Ensemble for Robust Portfolio Optimization
+
 [RFinanceYJ](https://cran.r-project.org/web/packages/RFinanceYJ/index.html): RFinanceYJ
 
 [rgdax](https://cran.r-project.org/web/packages/rgdax/index.html): Wrapper for 'Coinbase Pro (erstwhile GDAX)' Cryptocurrency Exchange
