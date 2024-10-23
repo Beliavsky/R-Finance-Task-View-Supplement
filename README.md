@@ -125,6 +125,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [kisopenapi](https://cran.r-project.org/web/packages/kisopenapi/index.html): Korea Investment & Securities (KIS) Open Trading API
 
+[KrakenR](https://cran.r-project.org/web/packages/KrakenR/index.html): Comprehensive R Interface for Accessing Kraken Cryptocurrency Exchange REST API
+
 [lazytrade](https://cran.r-project.org/web/packages/lazytrade/index.html): Learn Computer and Data Science using Algorithmic Trading
 
 [lcyanalysis](https://cran.r-project.org/web/packages/lcyanalysis/index.html): Stock Data Analysis Functions
