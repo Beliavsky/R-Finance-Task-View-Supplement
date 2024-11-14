@@ -149,6 +149,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [moexer](https://cran.r-project.org/web/packages/moexer/index.html): Interact with Moscow Exchange Informational and Statistical Server ('ISS')
 
+[MTS](https://cran.r-project.org/web/packages/MTS/index.html): All-Purpose Toolkit for Analyzing Multivariate Time Series (MTS) and Estimating Multivariate Volatility Models
+
 [multiAssetOptions](https://cran.r-project.org/web/packages/multiAssetOptions/index.html): Finite Difference Method for Multi-Asset Option Valuation
 
 [MultiATSM](https://cran.r-project.org/web/packages/MultiATSM/index.html): Multicountry Term Structure of Interest Rates Models
