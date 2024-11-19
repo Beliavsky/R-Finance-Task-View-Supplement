@@ -247,6 +247,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [tidyfinance](https://cran.r-project.org/web/packages/tidyfinance/index.html): Tidy Finance Helper Functions, with associated [book](https://www.tidy-finance.org/r/index.html)
 
+[tsmarch](https://cran.r-project.org/web/packages/tsmarch/index.html): Multivariate ARCH Models
+
 [tqk](https://cran.r-project.org/web/packages/tqk/index.html): Get Financial Data in Korea
 
 [Trading](https://cran.r-project.org/web/packages/Trading/index.html): CCR, Entropy-Based Correlation Estimates & Dynamic Beta
