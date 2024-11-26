@@ -79,6 +79,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [FinTS](https://cran.r-project.org/web/packages/FinTS/index.html): Companion to Tsay (2005) Analysis of Financial Time Series
 
+[fitHeavyTail](https://cran.r-project.org/web/packages/fitHeavyTail/index.html): Mean and Covariance Matrix Estimation under Heavy Tails
+
 [fixedincome](https://cran.r-project.org/web/packages/fixedincome/index.html): Fixed Income Models, Calculations, Data Structures and Instruments
 
 [fmbasics](https://cran.r-project.org/web/packages/fmbasics/index.html): Financial Market Building Blocks
