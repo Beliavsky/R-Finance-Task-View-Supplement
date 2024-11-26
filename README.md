@@ -229,6 +229,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [SmithWilsonYieldCurve](https://cran.r-project.org/web/packages/SmithWilsonYieldCurve/index.html): Smith-Wilson Yield Curve Construction
 
+[sparseIndexTracking](https://cran.r-project.org/web/packages/sparseIndexTracking/index.html): Design of Portfolio of Stocks to Track an Index
+
 [Spillover](https://cran.r-project.org/web/packages/Spillover/index.html): Spillover/Connectedness Index Based on VAR Modelling
 
 [starvars](https://cran.r-project.org/web/packages/starvars/index.html): Vector Logistic Smooth Transition Models / Realized Covariances Construction
