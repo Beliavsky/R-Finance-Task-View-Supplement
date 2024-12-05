@@ -101,6 +101,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GetDFPData2](https://cran.r-project.org/web/packages/GetDFPData2/index.html): Reading Annual and Quarterly Financial Reports from B3
 
+[GOLDprice](https://cran.r-project.org/web/packages/GOLDprice/index.html): Gold Price Data in Various Currencies
+
 [greeks](https://cran.r-project.org/web/packages/greeks/index.html): Sensitivities of Prices of Financial Options
 
 [HDShOP](https://cran.r-project.org/web/packages/HDShOP/index.html): High-Dimensional Shrinkage Optimal Portfolios
