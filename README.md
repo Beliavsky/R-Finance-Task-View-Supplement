@@ -9,6 +9,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [ASV](https://cran.r-project.org/web/packages/ASV/index.html): Stochastic Volatility Models with or without Leverage
 
+[backtestGraphics](https://cran.r-project.org/web/packages/backtestGraphics/index.html): Interactive Graphics for Portfolio Data
+
 [bbk](https://cran.r-project.org/web/packages/bbk/index.html): Client for the Bundesbank API
 
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
