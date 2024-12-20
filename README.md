@@ -89,6 +89,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [fmbasics](https://cran.r-project.org/web/packages/fmbasics/index.html): Financial Market Building Blocks
 
+[fmpapi](https://cran.r-project.org/web/packages/fmpapi/index.html): Flexible Client for the 'Financial Modeling Prep' API
+
 [frenchdata](https://cran.r-project.org/web/packages/frenchdata/index.html): Download Data Sets from Kenneth's French Finance Data Library Site
 
 [GARCHIto](https://cran.r-project.org/web/packages/GARCHIto/index.html): Provides functions to estimate model parameters and forecast future volatilities using the [Unified GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407616300914) and [Realized GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301974) models
