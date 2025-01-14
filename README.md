@@ -17,6 +17,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [bidask](https://cran.r-project.org/web/packages/bidask/index.html): Efficient Estimation of Bid-Ask Spreads from Open, High, Low, and Close Prices
 
+[BIS](https://cran.r-project.org/web/packages/BIS/index.html): Programmatic Access to Bank for International Settlements Data
+
 [BISdata](https://cran.r-project.org/web/packages/BISdata/index.html): Download Data from the Bank for International Settlements (BIS)
 
 [bolsec](https://cran.r-project.org/web/packages/bolsec/index.html): Bolivian Securities
