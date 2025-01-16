@@ -261,6 +261,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [stocks](https://cran.r-project.org/web/packages/stocks/index.html): Stock Market Analysis
 
+[svines](https://cran.r-project.org/web/packages/svines/index.html): fit and simulate from stationary vine copula models for time series. An associated [paper](https://www.sciencedirect.com/science/article/pii/S0304407621003043) uses the package to forecast returns of a portfolio of 20 stocks.
+
 [td](https://cran.r-project.org/web/packages/td/index.html): Access to the 'twelvedata' Financial Data API
 
 [tidyedgar](https://cran.r-project.org/web/packages/tidyedgar/index.html): Tidy Fundamental Financial Data from 'SEC's 'EDGAR' 'API'
