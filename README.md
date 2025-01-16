@@ -201,6 +201,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [QFRM](https://cran.r-project.org/web/packages/QFRM/index.html): Pricing of Vanilla and Exotic Option Contracts
 
+[qmj](https://cran.r-project.org/web/packages/qmj/index.html): Quality Scores for the Russell 3000
+
 [quantdates](https://cran.r-project.org/web/packages/quantdates/index.html): Manipulate Dates for Finance
 
 [quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
