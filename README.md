@@ -125,6 +125,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [imputeFin](https://cran.r-project.org/web/packages/imputeFin/index.html): Imputation of Financial Time Series with Missing Values and/or Outliers
 
+[IndGenErrors](https://cran.r-project.org/web/packages/IndGenErrors/index.html): Tests of Independence Between Innovations of Generalized Error Models. Computation of test statistics of independence between (continuous) innovations of time series. They can be used with stochastic volatility models and Hidden Markov Models (HMM).
+
 [INFOSET](https://cran.r-project.org/web/packages/INFOSET/index.html): Computing a New Informative Distribution Set of Asset Returns
 
 [insiderTrades](https://cran.r-project.org/web/packages/insiderTrades/index.html): Tools to Download Insider Transactions and Holdings
