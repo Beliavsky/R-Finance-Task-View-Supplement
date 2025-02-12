@@ -235,6 +235,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [rusquant](https://cran.r-project.org/web/packages/rusquant/index.html): Quantitative Trading Framework
 
+[schwabr](https://cran.r-project.org/web/packages/schwabr/index.html): 'Schwab API' Interface for R
+
 [seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html): Seasonality Variation Plots of Stock Prices and Cryptocurrencies
 
 [sentometrics](https://cran.r-project.org/web/packages/sentometrics/index.html): An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
