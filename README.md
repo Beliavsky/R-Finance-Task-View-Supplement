@@ -208,6 +208,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
 
+[R4GoodPersonalFinances](https://cran.r-project.org/web/packages/R4GoodPersonalFinances/index.html): Make Better Financial Decisions
+
 [rb3](https://cran.r-project.org/web/packages/rb3/index.html): Download and Parse Public Data Released by B3 Exchange
 
 [RblDataLicense](https://cran.r-project.org/web/packages/RblDataLicense/index.html): R Interface to 'Bloomberg Data License'
