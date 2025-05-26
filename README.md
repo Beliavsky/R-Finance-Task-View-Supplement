@@ -306,4 +306,6 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [yfR](https://cran.r-project.org/web/packages/yfR/index.html): Downloads and Organizes Financial Data from Yahoo Finance
 
+[yfscreen](https://cran.r-project.org/web/packages/yfscreen/index.html): Yahoo Finance 'screener' API
+
 [YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html): Modelling and Estimation of the Yield Curve
