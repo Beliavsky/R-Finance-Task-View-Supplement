@@ -292,6 +292,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [tvgarch](https://cran.r-project.org/web/packages/tvgarch/index.html): Time Varying GARCH Modelling
 
+[TVMVP](https://cran.r-project.org/web/packages/TVMVP/index.html): Time-Varying Minimum Variance Portfolio
+
 [TwitterAutomatedTrading](https://cran.r-project.org/web/packages/TwitterAutomatedTrading/index.html): Automated Trading Using Tweets
 
 [uncorbets](https://cran.r-project.org/web/packages/uncorbets/index.html): Uncorrelated Bets via Minimum Torsion Algorithm
