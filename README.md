@@ -292,6 +292,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [tvgarch](https://cran.r-project.org/web/packages/tvgarch/index.html): Time Varying GARCH Modelling
 
+[tvGarchKF](https://cran.r-project.org/web/packages/tvGarchKF/index.html): Time-Varying Garch Models Through a State-Space Representation
+
 [TVMVP](https://cran.r-project.org/web/packages/TVMVP/index.html): Time-Varying Minimum Variance Portfolio
 
 [TwitterAutomatedTrading](https://cran.r-project.org/web/packages/TwitterAutomatedTrading/index.html): Automated Trading Using Tweets
