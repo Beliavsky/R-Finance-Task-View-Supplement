@@ -98,6 +98,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GARCHSK](https://cran.r-project.org/web/packages/GARCHSK/index.html): Estimating a GARCHSK Model and GJRSK Model (time-varying skewness and kurtosis)
 
+[GARCH.X](https://cran.r-project.org/web/packages/GARCH.X/index.html): Estimation and Exogenous Covariate Selection for GARCH-X Models
+
 [GBcurves](https://cran.r-project.org/web/packages/GBcurves/index.html): Yield Curves of Brazil, China, and Russia
 
 [GDPuc](https://cran.r-project.org/web/packages/GDPuc/index.html): Easily Convert GDP Data
