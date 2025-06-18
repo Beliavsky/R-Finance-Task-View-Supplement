@@ -308,6 +308,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [VaRES](https://cran.r-project.org/web/packages/VaRES/index.html): Computes Value at Risk and Expected Shortfall for over 100 Parametric Distributions
 
+[wqc](https://cran.r-project.org/web/packages/wqc/index.html): Wavelet Quantile Correlation Analysis. Wavelet quantile correlation is used to capture the dependency between two time series across quantiles and different frequencies. This method is useful in identifying potential hedges and safe-haven instruments for investment purposes.
+
 [xVA](https://cran.r-project.org/web/packages/xVA/index.html): Credit Risk Valuation Adjustments
 
 [ycevo](https://cran.r-project.org/web/packages/ycevo/index.html): Nonparametric Estimation of the Yield Curve Evolution
