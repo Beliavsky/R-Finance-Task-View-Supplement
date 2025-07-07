@@ -206,6 +206,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [qmj](https://cran.r-project.org/web/packages/qmj/index.html): Quality Scores for the Russell 3000
 
+[QuantBondCurves](https://cran.r-project.org/web/packages/QuantBondCurves/index.html): Calculates Bond Values and Interest Rate Curves for Finance
+
 [quantdates](https://cran.r-project.org/web/packages/quantdates/index.html): Manipulate Dates for Finance
 
 [quarks](https://cran.r-project.org/web/packages/quarks/index.html): Simple Methods for Calculating Value at Risk and Expected Shortfall
