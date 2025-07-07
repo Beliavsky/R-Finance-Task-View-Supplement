@@ -244,6 +244,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [seasonalityPlot](https://cran.r-project.org/web/packages/seasonalityPlot/index.html): Seasonality Variation Plots of Stock Prices and Cryptocurrencies
 
+[segMGarch](https://cran.r-project.org/web/packages/segMGarch/index.html): Multiple Change-Point Detection for High-Dimensional GARCH Processes
+
 [sentometrics](https://cran.r-project.org/web/packages/sentometrics/index.html): An Integrated Framework for Textual Sentiment Time Series Aggregation and Prediction
 
 [sharpeRratio](https://cran.r-project.org/web/packages/sharpeRratio/index.html): Moment-Free Estimation of Sharpe Ratios
