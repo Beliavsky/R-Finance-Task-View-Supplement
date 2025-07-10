@@ -214,6 +214,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [R4GoodPersonalFinances](https://cran.r-project.org/web/packages/R4GoodPersonalFinances/index.html): Make Better Financial Decisions
 
+[ragtop](https://cran.r-project.org/web/packages/ragtop/index.html): Pricing Equity Derivatives with Extensions of Black-Scholes
+
 [rb3](https://cran.r-project.org/web/packages/rb3/index.html): Download and Parse Public Data Released by B3 Exchange
 
 [RblDataLicense](https://cran.r-project.org/web/packages/RblDataLicense/index.html): R Interface to 'Bloomberg Data License'
