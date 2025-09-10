@@ -238,6 +238,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [rpredictit](https://cran.r-project.org/web/packages/rpredictit/index.html): Interface to the 'PredictIt' API
 
+[RSDC](https://cran.r-project.org/web/packages/RSDC/index.html): Regime-Switching Dynamic Correlation Models
+
 [RTL](https://cran.r-project.org/web/packages/RTL/index.html): Risk Tool Library - Trading, Risk, Analytic for Commodities
 
 [rtsdata](https://cran.r-project.org/web/packages/rtsdata/index.html): R Time Series Intelligent Data Storage
