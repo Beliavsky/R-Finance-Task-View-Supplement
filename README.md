@@ -276,6 +276,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [Strategy](https://cran.r-project.org/web/packages/Strategy/index.html): Generic Framework to Analyze Trading Strategies
 
+[StReg](https://cran.r-project.org/web/packages/StReg/index.html): Student's t Regression Models. It has the function StAR for Student's t Autoregression. An associated paper is [Good risk measures, bad statistical assumptions, ugly risk forecasts](https://onlinelibrary.wiley.com/doi/10.1111/fire.12368)
+
 [stressr](https://cran.r-project.org/web/packages/stressr/index.html): Fetch and plot financial stress index and component data
 
 [stockAnalyst](https://cran.r-project.org/web/packages/stockAnalyst/index.html): Equity Valuation using Methods of Fundamental Analysis
