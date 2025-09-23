@@ -198,6 +198,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [portfolioBacktest](https://cran.r-project.org/web/packages/portfolioBacktest/index.html): Automated Backtesting of Portfolios over Multiple Datasets
 
+[PortfolioTesteR](https://cran.r-project.org/web/packages/PortfolioTesteR/index.html): Test Investment Strategies with English-Like Code
+
 [portsort](https://cran.r-project.org/web/packages/portsort/index.html): Factor-Based Portfolio Sorts
 
 [portvine](https://cran.r-project.org/web/packages/portvine/index.html): Vine Based (Un)Conditional Portfolio Risk Measure Estimation
