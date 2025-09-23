@@ -176,6 +176,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [MultiATSM](https://cran.r-project.org/web/packages/MultiATSM/index.html): Multicountry Term Structure of Interest Rates Models
 
+[NetVAR](https://cran.r-project.org/web/packages/NetVAR/index.html): Network Structures in VAR Models. An associated paper is [Influential assets in Large-Scale Vector AutoRegressive Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4619531)
+
 [nser](https://cran.r-project.org/web/packages/nser/index.html): Bhavcopy and Live Market Data from National Stock Exchange(NSE) India of Equities and Derivatives(F&O)
 
 [optionstrat](https://cran.r-project.org/web/packages/optionstrat/index.html): Utilizes the Black-Scholes Option Pricing Model to Perform Strategic Option Analysis and Plot Option Strategies
