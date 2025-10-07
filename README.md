@@ -280,6 +280,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [stressr](https://cran.r-project.org/web/packages/stressr/index.html): Fetch and plot financial stress index and component data
 
+[stochvolTMB](https://cran.r-project.org/web/packages/stochvolTMB/index.html): Likelihood Estimation of Stochastic Volatility Models
+
 [stockAnalyst](https://cran.r-project.org/web/packages/stockAnalyst/index.html): Equity Valuation using Methods of Fundamental Analysis
 
 [StockDistFit](https://cran.r-project.org/web/packages/StockDistFit/index.html): Fit Stock Price Distributions
