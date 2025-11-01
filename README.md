@@ -2,6 +2,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [ACDm](https://cran.r-project.org/web/packages/ACDm/index.html): Tools for Autoregressive Conditional Duration Models
 
+[amsSim](https://cran.r-project.org/web/packages/amsSim/index.html): Adaptive Multilevel Splitting for Option Simulation and Pricing. Simulation and pricing routines for rare-event options using Adaptive Multilevel Splitting and standard Monte Carlo under Black-Scholes and Heston models. Core routines are implemented in C++ via Rcpp and RcppArmadillo with lightweight R wrappers.
+
 [apt](https://cran.r-project.org/web/packages/apt/index.html): Asymmetric Price Transmission
 
 [armaOptions](https://cran.r-project.org/web/packages/armaOptions/index.html): ARMA Models to Value Stock Options
