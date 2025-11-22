@@ -184,6 +184,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [optionstrat](https://cran.r-project.org/web/packages/optionstrat/index.html): Utilizes the Black-Scholes Option Pricing Model to Perform Strategic Option Analysis and Plot Option Strategies
 
+[oRaklE](https://cran.r-project.org/web/packages/oRaklE/index.html): Multi-Horizon Electricity Demand Forecasting in High Resolution
+
 [pafdR](https://cran.r-project.org/web/packages/pafdR/index.html): Book Companion for Processing and Analyzing Financial Data with R
 
 [pcalls](https://cran.r-project.org/web/packages/pcalls/index.html): Pricing of Different Types of Call
