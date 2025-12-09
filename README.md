@@ -252,6 +252,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [rtsdata](https://cran.r-project.org/web/packages/rtsdata/index.html): R Time Series Intelligent Data Storage
 
+[rumidas](https://cran.r-project.org/web/packages/rumidas/index.html): Univariate GARCH-MIDAS, Double-Asymmetric GARCH-MIDAS and MEM-MIDAS
+
 [rusquant](https://cran.r-project.org/web/packages/rusquant/index.html): Quantitative Trading Framework
 
 [schwabr](https://cran.r-project.org/web/packages/schwabr/index.html): 'Schwab API' Interface for R
