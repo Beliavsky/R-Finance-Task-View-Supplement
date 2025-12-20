@@ -14,6 +14,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [backtestGraphics](https://cran.r-project.org/web/packages/backtestGraphics/index.html): Interactive Graphics for Portfolio Data
 
+[bayesianOU](https://cran.r-project.org/web/packages/bayesianOU/index.html): Bayesian Nonlinear Ornstein-Uhlenbeck Models with Stochastic Volatility
+
 [bbk](https://cran.r-project.org/web/packages/bbk/index.html): Client for the Bundesbank API
 
 [BEKKs](https://cran.r-project.org/web/packages/BEKKs/index.html): Multivariate Conditional Volatility Modelling and Forecasting
