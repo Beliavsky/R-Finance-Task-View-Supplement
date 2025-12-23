@@ -8,6 +8,8 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [armaOptions](https://cran.r-project.org/web/packages/armaOptions/index.html): ARMA Models to Value Stock Options
 
+[AsianOption](https://cran.r-project.org/web/packages/AsianOption/index.html): Asian Option Pricing with Price Impact
+
 [AssetAllocation](https://cran.r-project.org/web/packages/AssetAllocation/index.html): Backtesting Simple Asset Allocation Strategies
 
 [ASV](https://cran.r-project.org/web/packages/ASV/index.html): Stochastic Volatility Models with or without Leverage
