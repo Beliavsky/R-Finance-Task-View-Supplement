@@ -351,3 +351,5 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 [yfscreen](https://cran.r-project.org/web/packages/yfscreen/index.html): Yahoo Finance 'screener' API
 
 [YieldCurve](https://cran.r-project.org/web/packages/YieldCurve/index.html): Modelling and Estimation of the Yield Curve
+
+[yrnd](https://cran.r-project.org/web/packages/yrnd/index.html): Extracts Risk Neutral Densities of Prices, Money Market Rates and Bond Yields from Fixed Income Options
