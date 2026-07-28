@@ -1,4 +1,4 @@
-R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html)
+R Finance packages not listed in the [Empirical Finance Task View](https://cran.r-project.org/web/views/Finance.html) (at the time they were added here)
 
 [ACDm](https://cran.r-project.org/web/packages/ACDm/index.html): Tools for Autoregressive Conditional Duration Models
 
