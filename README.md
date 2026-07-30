@@ -102,8 +102,6 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GARCHIto](https://cran.r-project.org/web/packages/GARCHIto/index.html): Provides functions to estimate model parameters and forecast future volatilities using the [Unified GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407616300914) and [Realized GARCH-Ito](https://www.sciencedirect.com/science/article/abs/pii/S0304407620301974) models
 
-[GARCHSK](https://cran.r-project.org/web/packages/GARCHSK/index.html): Estimating a GARCHSK Model and GJRSK Model (time-varying skewness and kurtosis)
-
 [GARCH.X](https://cran.r-project.org/web/packages/GARCH.X/index.html): Estimation and Exogenous Covariate Selection for GARCH-X Models
 
 [GBcurves](https://cran.r-project.org/web/packages/GBcurves/index.html): Yield Curves of Brazil, China, and Russia
