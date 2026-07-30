@@ -116,8 +116,6 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [GOLDprice](https://cran.r-project.org/web/packages/GOLDprice/index.html): Gold Price Data in Various Currencies
 
-[HDShOP](https://cran.r-project.org/web/packages/HDShOP/index.html): High-Dimensional Shrinkage Optimal Portfolios
-
 [HierPortfolios](https://cran.r-project.org/web/packages/HierPortfolios/index.html): Hierarchical Clustering-Based Portfolio Allocation Strategies
 
 [highOrderPortfolios](https://cran.r-project.org/web/packages/highOrderPortfolios/index.html): Design of High-Order Portfolios Including Skewness and Kurtosis
