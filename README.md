@@ -160,7 +160,7 @@ R Finance packages not listed in the [Empirical Finance Task View](https://cran.
 
 [JumpTest](https://cran.r-project.org/web/packages/JumpTest/index.html): Financial Jump Detection
 
-[ldhmm](https://cran.r-project.org/web/packages/JumpTest/index.html): Hidden Markov Model for Financial Time-Series Based on Lambda Distribution
+[ldhmm](https://cran.r-project.org/web/packages/ldhmm/index.html): Hidden Markov Model for Financial Time-Series Based on Lambda Distribution
 
 [macrocol](https://cran.r-project.org/web/packages/macrocol/index.html): Colombian Macro-Financial Time Series Generator
 
